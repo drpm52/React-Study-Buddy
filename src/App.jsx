@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import React from "react"
-// import { nanoid } from "nanoid"
+import { nanoid } from "nanoid"
 
 export default function app() {
     
